@@ -42,7 +42,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/issararab/Data-Quality-Framework"
+Homepage = "https://github.com/issararab/Lakescore"
 
 [tool.setuptools.packages.find]
 where = ["src"]
